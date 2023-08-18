@@ -51,13 +51,13 @@ guidance: please put tags [TODO], [WIP], [DONE] at in front of your assigned wor
   [@이태민](https://github.com/idearendil)
     - 
   [@최지웅](https://github.com/ChoiCube84)
-     
+    -
 - Algol Team
     -
   @이유담
     - 
   @장래오
-     
+     -
 
 ## :books: Documentation
 TBD
