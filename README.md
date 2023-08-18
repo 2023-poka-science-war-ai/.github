@@ -1,11 +1,14 @@
 # 2023 poka science war AI team organization
 
 ## :pushpin: Description
-TBD
+Share common codes that are necessary for the model training and backup each models you have trained or gonna. 
+make sure to make a private repository.
+
 ## :fireworks: Screenshots
 TBD
 
 ## :hammer_and_wrench: Git
+guidance: please put tags below when you commit changes to repository.
 
 1. Commit / PR 컨벤션
     - `Feat` : 새로운 기능 추가
@@ -17,6 +20,7 @@ TBD
     - `Style` : 코드 의미에 영향을 주지 않는 변경 사항
     - `Chore` : 빌드, 설정 파일
     - `Comment` : 주석 추가
+
 2. Git 브랜치
     - `main` : 기본 브랜치
     - `develop` : 개발된 기능(feature)을 통합하는 브랜치
@@ -24,14 +28,36 @@ TBD
     - `feat/[issue_num]-[function name]` : 각 기능별 개발을 진행하는 브랜치
     - `test/[name]` : 테스트용 브랜치
 
-## :fountain_pen: Authors
+## :lock_with_ink_pen: Pipline And Deadlines
+([@이태민](https://github.com/idearendil) please write this ^^7)
 
-- AI : @권은성 | @김준서 | [@김준석](https://github.com/junseokkim00) | [@김현성](https://github.com/kmhs-ph) | [@원요한](https://github.com/Periphanes) | [@이윤혁](https://github.com/a-nodi) | [@이태민](https://github.com/idearendil) | [@최지웅](https://github.com/ChoiCube84)
-- Algol : @이유담 | @장래오
+## :fountain_pen: Authors and assigned works
+guidance: please put tags [TODO], [WIP], [DONE] at in front of your assigned work.
 
+- AI Team
+  @권은성
+    -
+  @김준서
+    - 
+  [@김준석](https://github.com/junseokkim00)
+    - 
+  [@김현성](https://github.com/kmhs-ph)
+    - 
+  [@원요한](https://github.com/Periphanes)
+    - 
+  [@이윤혁](https://github.com/a-nodi)
+    - 
+  [@이태민](https://github.com/idearendil)
+    - 
+  [@최지웅](https://github.com/ChoiCube84)
+    - 
+- Algol Team
+  @이유담
+    - 
+  @장래오
+    - 
 
 ## :books: Documentation
+TBD
 
-
-## :lock_with_ink_pen: License
 
