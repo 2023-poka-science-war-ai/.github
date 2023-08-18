@@ -34,7 +34,7 @@ guidance: please put tags below when you commit changes to repository.
 ## :fountain_pen: Authors and assigned works
 guidance: please put tags [TODO], [WIP], [DONE] at in front of your assigned work.
 
-- AI Team
+AI Team  
   @권은성  
   * TBD  
   @김준서
@@ -43,19 +43,19 @@ guidance: please put tags [TODO], [WIP], [DONE] at in front of your assigned wor
   * TBD  
   [@김현성](https://github.com/kmhs-ph)
   * TBD  
-[@원요한](https://github.com/Periphanes)
-* TBD  
-[@이윤혁](https://github.com/a-nodi)
-* TBD  
-[@이태민](https://github.com/idearendil)
-* TBD  
-[@최지웅](https://github.com/ChoiCube84)
-* TBD  
-- Algol Team
-@이유담
-* TBD  
-@장래오
-* TBD  
+  [@원요한](https://github.com/Periphanes)
+  * TBD  
+  [@이윤혁](https://github.com/a-nodi)
+  * TBD  
+  [@이태민](https://github.com/idearendil)
+  * TBD  
+  [@최지웅](https://github.com/ChoiCube84)
+  * TBD  
+  Algol Team  
+  @이유담
+  * TBD  
+  @장래오
+  * TBD  
 
 ## :books: Documentation
 TBD
