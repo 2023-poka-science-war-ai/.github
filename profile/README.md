@@ -36,10 +36,11 @@ guidance: please put tags [TODO], [WIP], [DONE] at in front of your assigned wor
 
 AI Team  
   
-  @권은성
+* @권은성
+  * TBD 
+* @김준서
   * TBD    
-  @김준서
-  * TBD    
+  
   [@김준석](https://github.com/junseokkim00)
   * TBD    
   [@김현성](https://github.com/kmhs-ph)
