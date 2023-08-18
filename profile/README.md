@@ -47,7 +47,7 @@ AI Team
 * [@원요한](https://github.com/Periphanes)
   * TBD    
 * [@이윤혁](https://github.com/a-nodi)
-  * TBD    
+  * [WIP] State -> tensor code (Repo name: Preprocessor)  
 * [@이태민](https://github.com/idearendil)
   * TBD    
 * [@최지웅](https://github.com/ChoiCube84)
