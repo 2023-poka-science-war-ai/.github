@@ -1,8 +1,7 @@
 # 2023 poka science war AI team organization
 
 ## :pushpin: Description
-Share common codes that are necessary for the model training and backup each models you have trained or gonna.
-  
+Share common codes that are necessary for the model training and backup each models you have trained or gonna.  
 make sure to make a private repository.
 
 ## :fireworks: Screenshots
