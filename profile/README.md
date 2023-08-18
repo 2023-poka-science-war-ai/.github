@@ -35,27 +35,27 @@ guidance: please put tags below when you commit changes to repository.
 guidance: please put tags [TODO], [WIP], [DONE] at in front of your assigned work.
 
 AI Team  
-  @권은성  
-  * TBD  
+  @권은성
+  * TBD    
   @김준서
-  * TBD  
+  * TBD    
   [@김준석](https://github.com/junseokkim00)
-  * TBD  
+  * TBD    
   [@김현성](https://github.com/kmhs-ph)
-  * TBD  
+  * TBD    
   [@원요한](https://github.com/Periphanes)
-  * TBD  
+  * TBD    
   [@이윤혁](https://github.com/a-nodi)
-  * TBD  
+  * TBD    
   [@이태민](https://github.com/idearendil)
-  * TBD  
+  * TBD    
   [@최지웅](https://github.com/ChoiCube84)
-  * TBD  
+  * TBD    
   Algol Team  
   @이유담
-  * TBD  
+  * TBD    
   @장래오
-  * TBD  
+  * TBD    
 
 ## :books: Documentation
 TBD
