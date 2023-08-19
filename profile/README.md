@@ -65,7 +65,7 @@ AI Team
   Algol Team    
 * @이유담
   * TBD    
-* @장래오
+* [@장래오](https://github.com/leo020630)
   * TBD    
 
 ## :books: Documentation
