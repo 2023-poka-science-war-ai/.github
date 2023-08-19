@@ -29,18 +29,16 @@ guidance: please put tags below when you commit changes to repository.
     - `test/[name]` : 테스트용 브랜치
 
 ## :lock_with_ink_pen: Pipeline And Deadlines
-{ Algorithm Team }
+1. Algorithm Team
+    - Find all possible states in bush.
+    - Implement greedy agent(+ minimax & alphabeta).
 
-1. Find all possible states in bush.
-2. Implement greedy agent(+ minimax & alphabeta).
-
-{ AI Team }
-
-1. Implement all helper functions for reinforcement learning framework.
-2. Find good neural network models and features by training candidates with gameplay data from greedy agents.
-3. Train the model by Alphazero method and test its performance.
-4. Tune the models & features + Make training framework(especially MCTS) parallelizable to fully utilize GPU resource.
-5. Test with further models & features(training agent with score instead of winrate, build a model which predict state in bush, etc).
+2. AI Team
+    - Implement all helper functions for reinforcement learning framework.
+    - Find good neural network models and features by training candidates with gameplay data from greedy agents.
+    - Train the model by Alphazero method and test its performance.
+    - Tune the models & features + Make training framework(especially MCTS) parallelizable to fully utilize GPU resource.
+    - Test with further models & features(training agent with score instead of winrate, build a model which predict state in bush, etc).
 
 ## :fountain_pen: Authors and assigned works
 guidance: please put tags [TODO], [WIP], [DONE] at in front of your assigned work.
@@ -60,7 +58,7 @@ AI Team
 * [@이윤혁](https://github.com/a-nodi)
   * [WIP] State -> tensor code (Repo name: Preprocessor)  
 * [@이태민](https://github.com/idearendil)
-  * [WIP] Two agents -> data for training(state, action, value) (Repo name: Collecting_Data_from_GreedyAgents)    
+  * [WIP] Two agents -> data for training(state, action, value) (Repo name: Collecting_Data_from_GreedyAgents)
 * [@최지웅](https://github.com/ChoiCube84)
   * TBD
 
