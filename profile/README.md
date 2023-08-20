@@ -62,7 +62,9 @@ AI Team
 * [@최지웅](https://github.com/ChoiCube84)
   * TBD
 
-  Algol Team    
+  Algol Team
+* @[권찬우](https://github.com/kwoncycle)
+  * TBD 
 * @이유담
   * TBD    
 * [@장래오](https://github.com/leo020630)
