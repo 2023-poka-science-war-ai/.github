@@ -54,7 +54,7 @@ AI Team
 * [@김현성](https://github.com/kmhs-ph)
   * TBD    
 * [@원요한](https://github.com/Periphanes)
-  * TBD    
+  * [WIP] General Pipeline for recieving 3D states and outputting action and state values    
 * [@이윤혁](https://github.com/a-nodi)
   * [WIP] State -> tensor code (Repo name: Preprocessor)  
 * [@이태민](https://github.com/idearendil)
