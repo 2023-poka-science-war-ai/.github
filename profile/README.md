@@ -46,7 +46,7 @@ guidance: please put tags [TODO], [WIP], [DONE] at in front of your assigned wor
 AI Team  
   
 * [@권은성](https://github.com/narinikes)
-  * TBD
+  * [DONE] helper func of int&act; add how to index int to action at readme (Repo name: helper_function_betweeen_int_and_ACTION)
 * @김준서
   * TBD
 * [@김준석](https://github.com/junseokkim00)
