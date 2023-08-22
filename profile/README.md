@@ -56,7 +56,7 @@ AI Team
 * [@원요한](https://github.com/Periphanes)
   * [WIP] General Pipeline for recieving 3D states and outputting action and state values    
 * [@이윤혁](https://github.com/a-nodi)
-  * [WIP] State -> tensor code (Repo name: Preprocessor)  
+  * [DONE] State -> tensor code (Repo name: Preprocessor)  
 * [@이태민](https://github.com/idearendil)
   * [WIP] Two agents -> data for training(state, action, value) (Repo name: Collecting_Data_from_GreedyAgents)
 * [@최지웅](https://github.com/ChoiCube84)
