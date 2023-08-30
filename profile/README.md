@@ -2,7 +2,7 @@
 
 ## :pushpin: Description
 Share common codes that are necessary for the model training and backup each models you have trained or gonna.  
-make sure to make a private repository.
+make sure to make it to private repository.
 
 ## :fireworks: Screenshots
 TBD
