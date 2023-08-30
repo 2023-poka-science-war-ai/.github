@@ -62,13 +62,11 @@ AI Team
 * [@이태민](https://github.com/idearendil)
   * [WIP] Two agents -> data for training(state, action, value) (Repo name: Collecting_Data_from_GreedyAgents)
 * [@최지웅](https://github.com/ChoiCube84)
-  * [WIP] State (Type: numpy.ndarray) -> State rotated by 180 degrees (Type: numpy.ndarray)
+  * [DONE] State (Type: numpy.ndarray) -> State rotated by 180 degrees (Type: numpy.ndarray)
     - Repo name: RotateState
-    - Status: Testing
-
-  * [WIP] State (Type: Game) -> One-hot encoded possible actions (Type: numpy.ndarray)
+  * [DONE] State (Type: Game) -> One-hot encoded possible actions (Type: numpy.ndarray)
     - Repo name: PossibleActions
-    - Status: Testing
+  * [WIP] Get a large number of tuples that will be used as training datasets
 
   Algol Team
 * [@권찬우](https://github.com/kwoncycle)
