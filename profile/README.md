@@ -47,8 +47,6 @@ AI Team
   
 * [@권은성](https://github.com/narinikes)
   * [DONE] helper func of int&act; add how to index int to action at readme (Repo name: helper_function_betweeen_int_and_ACTION)
-* [@김준서](https://github.com/kjs0405)
-  * TBD
 * [@김준석](https://github.com/junseokkim00)
   * TBD    
 * [@김현성](https://github.com/kmhs-ph)
@@ -70,11 +68,13 @@ AI Team
 
   Algol Team
 * [@권찬우](https://github.com/kwoncycle)
-  * TBD 
+  * TBD
+* [@김준서](https://github.com/kjs0405)
+  * [WIP] Greedy Agent
 * @이유담
-  * TBD    
+  * [WIP] Greedy Agent
 * [@장래오](https://github.com/leo020630)
-  * TBD    
+  * [WIP] Greedy Agent  
 
 ## :books: Documentation
 TBD
