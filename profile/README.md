@@ -71,11 +71,13 @@ AI Team
 
   Algol Team
 * [@권찬우](https://github.com/kwoncycle)
-  * TBD
+  * [WIP] implement state from loq2 to loq0 
 * [@김준서](https://github.com/kjs0405)
-  * [WIP] Mreedy Agent
+  * [WIP] Modeling Greedy Agent
+  * [WIP] research loq opening
 * @이유담
-  * [WIP] Mreedy Agent
+  * [WIP] Modeling Greedy Agent
+  * [WIP] research loq opening
 * [@장래오](https://github.com/leo020630)
   * [WIP] Modeling Greedy Agent  
 
