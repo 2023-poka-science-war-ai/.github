@@ -46,10 +46,10 @@ guidance: please put tags [TODO], [WIP], [DONE] at in front of your assigned wor
 AI Team  
   
 * [@권은성](https://github.com/narinikes)
-  * [DONE] helper func of int&act; add how to index int to action at readme (Repo name: helper_function_betweeen_int_and_ACTION)
-  * [WIP] CNN
+  * [DONE] Helper func of int&act; add how to index int to action at readme (Repo name: helper_function_betweeen_int_and_ACTION)
+  * [WIP] Modeling CNN structure for training
 * [@김준석](https://github.com/junseokkim00)
-  * [WIP] MLP    
+  * [WIP] Modeling MLP structure for training
 * [@김현성](https://github.com/kmhs-ph)
   * [WIP] Get a large number of tuples that will be used as training datasets
 * [@원요한](https://github.com/Periphanes)
@@ -57,9 +57,9 @@ AI Team
 * [@이윤혁](https://github.com/a-nodi)
   * [WIP] State -> tensor code (Repo name: Preprocessor)
   * [WIP] Using GUI to make state that will be used as data of curriculum learning & supervised learning (Repo name: Visualized_state_maker)
-  * [TODO] Distribute creating tasks for opening data 
+  * [TODO] Distribute creating tasks for opening data
+  * [TODO] Create opening dataloader for opening data
   * [TODO] Using curriculum learning method to create pre-trained model that knows general openings of quoridor (Repo name: Curriculum_learning)
-  * 
 * [@이태민](https://github.com/idearendil)
   * [WIP] Two agents -> data for training(state, action, value) (Repo name: Collecting_Data_from_GreedyAgents)
 * [@최지웅](https://github.com/ChoiCube84)
@@ -73,11 +73,11 @@ AI Team
 * [@권찬우](https://github.com/kwoncycle)
   * TBD
 * [@김준서](https://github.com/kjs0405)
-  * [WIP] Greedy Agent
+  * [WIP] Mreedy Agent
 * @이유담
-  * [WIP] Greedy Agent
+  * [WIP] Mreedy Agent
 * [@장래오](https://github.com/leo020630)
-  * [WIP] Greedy Agent  
+  * [WIP] Modeling Greedy Agent  
 
 ## :books: Documentation
 TBD
