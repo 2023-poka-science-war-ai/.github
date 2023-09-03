@@ -62,6 +62,8 @@ AI Team
   * [TODO] Using curriculum learning method to create pre-trained model that knows general openings of quoridor (Repo name: Curriculum_learning)
 * [@이태민](https://github.com/idearendil)
   * [WIP] Two agents -> data for training(state, action, value) (Repo name: Collecting_Data_from_GreedyAgents)
+  * [WIP] Preprocessed_visualizer (Repo name: preprocessed_data_debugger)
+  * [TODO] Monte Carlo Tree Search Porting to loq2
 * [@최지웅](https://github.com/ChoiCube84)
   * [DONE] State (Type: numpy.ndarray) -> State rotated by 180 degrees (Type: numpy.ndarray)
     - Repo name: RotateState
@@ -79,7 +81,8 @@ AI Team
   * [WIP] Modeling Greedy Agent
   * [WIP] research loq opening
 * [@장래오](https://github.com/leo020630)
-  * [WIP] Modeling Greedy Agent  
+  * [WIP] Modeling Greedy Agent
+  * [WIP] Build a function that gives all the possible states in the bush.
 
 ## :books: Documentation
 TBD
