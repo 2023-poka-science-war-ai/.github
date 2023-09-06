@@ -48,6 +48,7 @@ AI Team
 * [@권은성](https://github.com/narinikes)
   * [DONE] Helper func of int&act; add how to index int to action at readme (Repo name: helper_function_betweeen_int_and_ACTION)
   * [WIP] Modeling CNN structure for training
+  * [WIP] Constructing data loader, trainer
 * [@김준석](https://github.com/junseokkim00)
   * [WIP] Modeling MLP structure for training
 * [@김현성](https://github.com/kmhs-ph)
