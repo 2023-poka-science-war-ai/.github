@@ -56,11 +56,11 @@ AI Team
 * [@원요한](https://github.com/Periphanes)
   * [WIP] General Pipeline for recieving 3D states and outputting action and state values    
 * [@이윤혁](https://github.com/a-nodi)
-  * [WIP] State -> tensor code (Repo name: Preprocessor)
-  * [WIP] Using GUI to make state that will be used as data of curriculum learning & supervised learning (Repo name: Visualized_state_maker)
-  * [TODO] Distribute creating tasks for opening data
-  * [TODO] Create opening dataloader for opening data
-  * [TODO] Using curriculum learning method to create pre-trained model that knows general openings of quoridor (Repo name: Curriculum_learning)
+  * [DONE] State -> tensor code (Repo name: Preprocessor)
+  * [DONE] Using GUI to make state that will be used as data of curriculum learning & supervised learning (Repo name: Visualized_state_maker)
+  * [DONE] Distribute creating tasks for opening data
+  * [DONE] Create opening dataloader for opening data
+  * [WIP] Using curriculum learning method to create pre-trained model that knows general openings of quoridor (Repo name: Curriculum_learning)
 * [@이태민](https://github.com/idearendil)
   * [WIP] Two agents -> data for training(state, action, value) (Repo name: Collecting_Data_from_GreedyAgents)
   * [WIP] Preprocessed_visualizer (Repo name: preprocessed_data_debugger)
